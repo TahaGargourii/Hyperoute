@@ -1,0 +1,123 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-04-22T16:00:06Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4256582",
+        "highway": "unclassified",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "name": "Saffron Hill",
+        "oneway": "yes",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.106227,
+            51.5196122
+          ],
+          [
+            -0.1062443,
+            51.5196531
+          ],
+          [
+            -0.1063477,
+            51.5198249
+          ],
+          [
+            -0.1064347,
+            51.5199436
+          ],
+          [
+            -0.106815,
+            51.5204225
+          ],
+          [
+            -0.1071314,
+            51.5208276
+          ],
+          [
+            -0.1071543,
+            51.520856
+          ],
+          [
+            -0.1071847,
+            51.5208957
+          ],
+          [
+            -0.107508,
+            51.5213412
+          ],
+          [
+            -0.1075479,
+            51.5213976
+          ],
+          [
+            -0.1075853,
+            51.5214372
+          ],
+          [
+            -0.1079743,
+            51.5218499
+          ],
+          [
+            -0.1080333,
+            51.5218971
+          ],
+          [
+            -0.1080651,
+            51.5219019
+          ]
+        ]
+      },
+      "id": "way/4256582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42769646",
+        "highway": "unclassified",
+        "lit": "yes",
+        "maxspeed": "20 mph",
+        "name": "Saffron Hill",
+        "sidewalk": "both",
+        "surface": "asphalt",
+        "traffic_calming": "bump"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.106227,
+            51.5196122
+          ],
+          [
+            -0.1062103,
+            51.5195724
+          ],
+          [
+            -0.1060258,
+            51.5192654
+          ],
+          [
+            -0.1059541,
+            51.5191474
+          ],
+          [
+            -0.1059059,
+            51.5190631
+          ]
+        ]
+      },
+      "id": "way/42769646"
+    }
+  ]
+}
