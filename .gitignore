@@ -4,3 +4,6 @@ venv/
 __pycache__/
 *.pyc
 EOF
+data/greater-london.osm.pbf
+data/greater-london-roads.graphml
+data/greater-london.osm.xml
